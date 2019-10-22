@@ -7,8 +7,10 @@
 * Comer
 * Videojuegos
 * Musica
+* Ver series
 
 ## Cita Favorita
+
 > "La vida es facil, pero nos empeñamos en hacerla dificil"
 ---- Confucio
 
